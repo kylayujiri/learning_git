@@ -1,1 +1,3 @@
-I have created a new file in a branch called branch-to-merge
+I have created a new file in a branch called branch-to-merge.
+
+This branch will then be merged into the master branch.
